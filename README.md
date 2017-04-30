@@ -18,13 +18,13 @@ Home Grown 3D Gravity Engine
 
 ```
 
-King Garabito is a gaspar fish in a pond in a cave near Puriscal.
-he gave me 12 surfboards to brand with rocket science an ancient
-Huetar Wisdom, They are Hidden in Jaco Beach Supermarkets behind the
-beer freezers. Buy a Pilsen, land in SJO, guayabo snake queen set the surf ...
+This is the brain of next Rusty surfboard ...
+I'll be playing on my iphone at some almendro shade,
+somewhere in sunny Costa Rica.
+
 
 Visit Bar Oceano , Heredia.
 
 [![go surf costa rica](https://static.simpsonswiki.com/images/thumb/e/ec/SurfingRabbi.png/250px-SurfingRabbi.png)]
 
-paypal link, trade programming for surfboards
+will write your software for money or good weed ...
