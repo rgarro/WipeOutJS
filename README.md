@@ -10,7 +10,7 @@ Home Grown 3D Gravity Engine
 
 <script type="text/javascript">
 			$(document).ready(function(){
-				this.planet = new Wo.Planet();
+				this.planet = new Wo.Planet();//the endless Wo be with you ..
 				BasketBall.prototype = Object.create(Wo.Mechanics.FallingBouncer.prototype);
 			});
 </script>		
